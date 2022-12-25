@@ -1,6 +1,6 @@
 import Foundation
 
-
+/*
 struct nameAndURL: Decodable
 {
 	var name: String
@@ -28,6 +28,7 @@ struct damageRelationsModel: Decodable
 	var no_damage_from:     [nameAndURL]
 	var no_damage_to:       [nameAndURL]
 }
+*/
 
 struct topLevel: Decodable
 {
